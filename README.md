@@ -1,7 +1,7 @@
 <div align="right">
   
-![](https://komarev.com/ghpvc/?username=mariaclarasilvamary-codificadora&color=006bed)
-[![GitHub](https://img.shields.io/github/followers/mariaclarasilvamary-codificadora?label=follow&style=social)](https://github.com/mariaclarasilvamary-codificadora)
+![](https://komarev.com/ghpvc/?username=mariaclarasilvamary-coder&color=006bed)
+[![GitHub](https://img.shields.io/github/followers/mariaclarasilvamary-coder?label=follow&style=social)](https://github.com/mariaclarasilvamary-coder)
 </div>
 <div align="center">
   
@@ -25,5 +25,5 @@
 ##
  
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarasilvamary-codificadora&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl&exclude_repo=dotfiles" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarasilvamary-coder&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&hide=assembly,c%2b%2b,cmake,css,html,jupyter%20notebook,vhdl&exclude_repo=dotfiles" />
 </div>
